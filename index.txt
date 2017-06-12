@@ -1,2 +1,3 @@
 newline
 third line
+updating the file from branch b3
