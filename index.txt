@@ -1,3 +1,4 @@
 newline
 third line
 updating the same line from master
+updating the file from branch b3
