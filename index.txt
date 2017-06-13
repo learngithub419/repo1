@@ -7,3 +7,4 @@ updating the file from master
 updating the file from github remote repo
 updating the file from github remote repo second time
 updating the file from github remote repo third time
+Updating it from local repo
